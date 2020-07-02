@@ -3,7 +3,7 @@
 
 <h2 align="center"> Aplicação de desafio para admissão da empresa Casa Magalhães </h2>
 
-<h3 align="center"> Criada com a stack <img src="imgs/react.png" alt="react" height="18"> React,<img src="imgs/node.png" alt="node" height="18"> Node e Postgres </h3>
+<h3 align="center"> Criada com a stack    <img src="imgs/react.png" alt="react" height="18"> React,<img src="imgs/node.png" alt="node" height="18"> Node e Postgres </h3>
 
 
 
